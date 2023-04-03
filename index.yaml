@@ -35,7 +35,7 @@ entries:
       catalog.cattle.io/auto-install: rancher-gatekeeper-crd=match
       catalog.cattle.io/certified: rancher
       catalog.cattle.io/display-name: OPA Gatekeeper
-      catalog.cattle.io/kube-version: '>= 1.20.0-0 < 1.25.0-0'
+      catalog.cattle.io/kube-version: '>= 1.20.0-0 < 1.26.0-0'
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
@@ -65,12 +65,12 @@ entries:
       catalog.cattle.io/auto-install: rancher-gatekeeper-crd=match
       catalog.cattle.io/certified: rancher
       catalog.cattle.io/display-name: OPA Gatekeeper
-      catalog.cattle.io/kube-version: '>= 1.20.0-0 < 1.25.0-0'
+      catalog.cattle.io/kube-version: '>= 1.20.0-0 < 1.26.0-0'
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: config.gatekeeper.sh.config/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gatekeeper
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: gatekeeper
@@ -99,7 +99,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: config.gatekeeper.sh.config/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gatekeeper
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: gatekeeper
@@ -128,7 +128,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: config.gatekeeper.sh.config/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gatekeeper
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: gatekeeper
